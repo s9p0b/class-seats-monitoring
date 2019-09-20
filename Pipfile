@@ -7,8 +7,6 @@ verify_ssl = true
 
 [packages]
 requests = "*"
-yagmail = "*"
-keyring = "*"
 
 [requires]
 python_version = "3.7"
