@@ -5,7 +5,7 @@ import argparse
 parser = argparse.ArgumentParser()
 
 parser.add_argument("-e", "--email", help="Sender Email")
-parser.add_argument("-p", "--password", help="Password")
+parser.add_argument("-p", "--password", help="Sender Password")
 parser.add_argument("-t", "--toemail", help="Receiver Email")
 parser.add_argument("-d", "--dept", help="Course Department")
 parser.add_argument("-n", "--num", help="Course Number")
